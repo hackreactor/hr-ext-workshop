@@ -16,7 +16,7 @@ No textbook is required for this workhop. All materials are included in this Git
 
 ## Slides
 
-The lesson slides for this workshop can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vTZGbqxLKpBl_Zqlrrhithib1GiskUO2924Togr28dbtm8Eok81WqKl6qT6pxwA9pWzLbeYIE3bU0qT/pub?start=false&loop=false&delayms=60000).
+The lesson slides for this workshop can be found [here](https://docs.google.com/presentation/d/e/2PACX-1vS-HlZ79rzPVo8TkaQdG6OcJJejJzXDL4zV9HetcWqUVGzFaB35jEpqXR33nftjk-lURgnI_N7lF5zg/pub?start=false).
 
 ## Technical requirements
 
